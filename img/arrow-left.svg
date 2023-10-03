@@ -1,0 +1,16 @@
+<svg width="31" height="31" viewBox="0 0 31 31" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="15.5" cy="15.5002" r="15.1556" transform="rotate(-180 15.5 15.5002)" fill="url(#paint0_radial_114_25)" fill-opacity="0.6" stroke="url(#paint1_radial_114_25)" stroke-width="0.688889"/>
+<path d="M10.2915 15.1139C9.88795 15.5175 9.88795 16.1718 10.2915 16.5753L16.8676 23.1514C17.2711 23.5549 17.9254 23.5549 18.3289 23.1514C18.7325 22.7478 18.7325 22.0936 18.3289 21.69L12.4835 15.8446L18.3289 9.9992C18.7325 9.59566 18.7325 8.94139 18.3289 8.53785C17.9254 8.13431 17.2711 8.13431 16.8676 8.53785L10.2915 15.1139ZM11.7111 14.8113H11.0222V16.878H11.7111V14.8113Z" fill="#EEEEEE"/>
+<defs>
+<radialGradient id="paint0_radial_114_25" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="rotate(47.467) scale(42.0688 154.173)">
+<stop stop-color="#1E1341"/>
+<stop offset="0.49187" stop-color="#391E8A"/>
+<stop offset="0.942708" stop-color="#775EC5"/>
+</radialGradient>
+<radialGradient id="paint1_radial_114_25" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(31.0005 31.0004) rotate(-139.658) scale(47.8879 140.835)">
+<stop stop-color="#180D39"/>
+<stop offset="0.479167" stop-color="#775EC5"/>
+<stop offset="1" stop-color="#A492DC" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>
