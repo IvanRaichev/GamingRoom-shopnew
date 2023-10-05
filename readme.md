@@ -1,4 +1,4 @@
-# <a href="https://ivanraichev.github.io/GamingRoom-shopnew">Multi-page website</a>  for online store selling Technics (Diploma work)
+# <a href="https://ivanraichev.github.io/GamingRoom-shopnew">Multi-page website</a>  for online store selling Technics
 
 
 - There is adaptive up to 320px
