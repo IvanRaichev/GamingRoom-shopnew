@@ -15,6 +15,7 @@
 ![Gulp](https://img.shields.io/badge/-Gulp-99d6f8?logo=gulp&logoColor=black)
 ![BEM](https://img.shields.io/badge/-BEM-yellowgreen)
 ![WordPress](https://img.shields.io/badge/-Wordpress-yellow)
+![ajax](https://img.shields.io/badge/-ajax-yellowblack)
 
 ## Tasks completed in the project
 
