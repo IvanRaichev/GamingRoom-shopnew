@@ -31,7 +31,7 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-61daf8?logo=jQuery&logoColor=black)
 ![Gulp](https://img.shields.io/badge/-Gulp-99d6f8?logo=gulp&logoColor=black)
 ![BEM](https://img.shields.io/badge/-BEM-yellowgreen)
-![WordPress](https://img.shields.io/badge/-Wordpress-yellow)
+![WordPress](https://img.shields.io/badge/-Wordpress-yellow?logo=wordpress&logoColor=black)
 ![Woocommerce](https://img.shields.io/badge/-WooCommerce-59d6f8?logo=woo&logoColor=black)
 ![ajax](https://img.shields.io/badge/-ajax-yellowblack)
 
