@@ -1,6 +1,9 @@
-<p align = "center">
-  <img src = "https://i.ibb.co/QmWNm2W/logoV2.png" alt ="Project logo" width = "726">
-</p>
+# Preview
+
+
+https://github.com/IvanRaichev/GamingRoom-shopnew/assets/110658915/5217f649-54ec-4607-87ab-7acfaa424412
+
+---
 
 # <a href="https://ivanraichev.github.io/GamingRoom-shopnew">Multi-page website</a>  for online store selling Technics
 
